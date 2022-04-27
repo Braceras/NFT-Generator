@@ -1,7 +1,7 @@
 {
   "name": "art_generator",
   "version": "1.0.0",
-  "description": "",
+  "description": "Create generative art by using the canvas api and node js, feel free to contribute to this repo with new ideas.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -12,5 +12,9 @@
     "all": "^0.0.0",
     "canvas": "^2.8.0",
     "truffle": "^5.4.19"
+  },
+  "devDependencies": {
+    "node-sass": "^6.0.1",
+    "nodemon": "^2.0.15"
   }
 }
