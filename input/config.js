@@ -523,26 +523,18 @@ const races = {
             path: `${dir}/10-Estampillas1/estampilla3.png`,
             weight: 100,
           },
-        ],
-        position: { x: 0, y: 0 },
-        size: { width: width, height: height },
-      },
-      {
-        name: "Estampillas TWO",
-        elements: [
           {
-            id: 0,
-            name: "Estampilla 1",
-            path: `${dir}/10-Estampillas2/estampilla1.png`,
+            id: 3,
+            name: "Estampilla 4",
+            path: `${dir}/10-Estampillas1/estampillas4.png`,
             weight: 100,
           },
           {
-            id: 1,
-            name: "Estampilla 2",
-            path: `${dir}/10-Estampillas2/estampilla2.png`,
+            id: 4,
+            name: "Estampilla 5",
+            path: `${dir}/10-Estampillas1/estampillas5.png`,
             weight: 100,
           },
-          
         ],
         position: { x: 0, y: 0 },
         size: { width: width, height: height },
