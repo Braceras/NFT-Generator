@@ -26,11 +26,11 @@ const saveImage = (_editionCount) => {
 };
 
 const signImage = (_sig) => {
-  ctx.fillStyle = "#ffffff";
-  ctx.font = "bold 30pt Verdana";
+  ctx.fillStyle = "";
+  ctx.font = "";
   ctx.textBaseline = "top";
   ctx.textAlign = "left";
-  ctx.fillText(_sig, 40, 40);
+  ctx.fillText(_sig, -40, -40);
 };
 
 const genColor = () => {
